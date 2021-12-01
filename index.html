@@ -40,7 +40,13 @@
             integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
             crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.js"></script>
-       
+       <script>
+           $("document").ready(() => {
+            $.get("items/experience_1.md").then((sData) => {
+                $("#section_1").append(marked(sData));
+            });
+        });
+        </script>
     </body>
     <footer>
         <div class="footer">
