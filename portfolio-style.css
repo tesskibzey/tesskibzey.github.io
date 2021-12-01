@@ -1,0 +1,41 @@
+.navbar_nav {
+    height: 50px;
+    background-color: #F44336;
+    position: absolute;
+    z-index: 3;
+  }
+  
+  .navbar_nav,
+  .menu_a { width: 100%; }
+  
+  .menu_li,
+  .menu_a { display: inline-block; }
+  
+  .menu_li {
+    width: 25%;
+    float: left;
+    opacity: 0.8;
+    text-align: center;
+    height: 50px;
+    background-color: #F44336;
+  }
+  
+  .menu_a { padding: 16px 0; }
+  
+  .menu_li:hover,
+  .menu_a:hover {
+    background-color: #03A9F4;
+    opacity: 1;
+  }
+  
+  #menu-acces {
+    display: none;
+    width: 100%;
+    position: relative;
+    text-align: center;
+  }
+  
+  .menu_open:after {
+    content: "";
+    display: table;
+  }
