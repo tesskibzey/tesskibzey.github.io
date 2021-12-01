@@ -24,7 +24,7 @@
   
   .menu_li:hover,
   .menu_a:hover {
-    background-color: #03A9F4;
+    background-color: rgb(0, 183, 255);
     opacity: 1;
   }
   
