@@ -5,6 +5,9 @@
     position: absolute;
     z-index: 3;
     font-family: 'Lato', sans-serif;
+}
+.navbar{
+    margin-bottom: 50px !important;
   }
   
   .navbar_nav,
