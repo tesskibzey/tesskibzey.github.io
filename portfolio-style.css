@@ -18,6 +18,7 @@
     text-align: center;
     height: 50px;
     background-color: rgb(0, 183, 255);
+    font-family: 'Lato', sans-serif;
   }
   
   .menu_a { padding: 16px 0; }
