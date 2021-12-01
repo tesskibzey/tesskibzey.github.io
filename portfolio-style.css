@@ -2,7 +2,7 @@
 .navbar_nav {
     height: 50px;
     background-color: rgb(0, 183, 255);
-    position: absolute;
+    position: fixed;
     z-index: 3;
     font-family: 'Lato', sans-serif;
 }
