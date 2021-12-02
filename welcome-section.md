@@ -8,4 +8,4 @@ Use the "About" and "Contact" sections to learn more about me and to find my con
 
 ### Thank you for visiting my Portfolio!
 
-<img src="" alt="Italian Trulli">
+<img src="ux-header.jpg" alt="UX">
