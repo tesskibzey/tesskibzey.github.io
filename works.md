@@ -18,3 +18,7 @@
 <br>
 
 <img src="B73E0BDF-D752-4F96-9784-9E08638DE727_1_105_c.jpeg" alt="Harry Styles Poster">
+
+<br>
+
+**This poster was created in my high school Communications Technology class. The project was to create a concert poster for our favourite artist. Fun fact: Harry Styles is still my favourite!**
