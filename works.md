@@ -14,3 +14,5 @@
 <br>
 
 **The above posters are examples of the work I did for Art Hawks, a First Year Leadership Program on the Laurier Brantford campus. They were created using Adobe Illustrator and Adobe Photoshop.**
+
+<br>
