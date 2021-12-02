@@ -6,3 +6,4 @@
 
 ## Graphic Design
 
+<img src="art-hawks-march-event-poster.jpg" alt="Art Hawks FYLP Event Poster" width="20" height="60">
