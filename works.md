@@ -1,3 +1,8 @@
-## Works
+# Works
 
-**Please see below my work in graphic design, as well as in UX.**
+### Please see below my work in Graphic Design and UX.
+
+<br>
+
+## Graphic Design
+
