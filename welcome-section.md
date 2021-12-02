@@ -7,5 +7,3 @@ Please use the navigation bar above to move through my portfolio and see my work
 Use the "About" and "Contact" sections to learn more about me and to find my contact information.
 
 ### Thank you for visiting my Portfolio!
-
-<img src="ux-header.jpg" alt="UX">
