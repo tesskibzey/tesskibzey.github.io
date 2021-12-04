@@ -26,3 +26,8 @@
 **This poster was created in my high school Communications Technology class.**
 
 **The project was to create a concert poster for our favourite artist. Fun fact: Harry Styles is still my favourite!**
+
+<br>
+
+## UX Design
+
