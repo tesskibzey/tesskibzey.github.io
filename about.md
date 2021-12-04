@@ -2,6 +2,9 @@
 
 <br>
 
+<img src="IMG_2925.JPG" alt="Picture of Tess Kibzey">
+
+<br>
 
 **Tess Kibzey is a Second-Year User Experience Design Student. She is currently working as a Residence life Don for the Department of Residence.**
 
