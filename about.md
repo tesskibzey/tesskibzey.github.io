@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="IMG_2925.JPG" alt="Picture of Tess Kibzey">
+<img src="IMG_2925.JPG" height= "400" width= "700" alt="Picture of Tess Kibzey">
 
 <br>
 
