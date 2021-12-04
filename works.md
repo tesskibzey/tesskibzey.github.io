@@ -50,4 +50,10 @@ The project was to create a concert poster for our favourite artist. Fun fact: H
 
 The pictures above are from the process of creating ShopSafe, my app prototype. They were based on user research user feedback.
 
+# My Angle
+
+When it comes to prototyping, it's important to ensure that you are doing all the preliminary steps before starting a prototype. In this assignment, I made sure to perform all of my user research and analysis before beginning work on a low fidelity prototype. Virtual product prototyping aided me in creating this low, medium, and high fidelity prototype for my project since I could not create it physically (Nam et al. 2019).
+
+**References:**
+S. Nam, G. Ko, K. Suh and J. Kwon, "User Experience- and Design-Oriented Virtual Product Prototyping System," 2019 11th International Conference on Knowledge and Smart Technology (KST), 2019, pp. 116-120, doi: 10.1109/KST.2019.8687418.
 <br>
