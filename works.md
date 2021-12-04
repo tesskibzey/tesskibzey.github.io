@@ -43,4 +43,7 @@
 
 <br>
 <img src="Screen Shot 2020-11-13 at 1.15.07 PM.png" width= "600" alt="Medium Fidelity Prototype example">
+
 <br>
+
+**The pictures above are from the process of creating ShopSafe, my app prototype. They were based on user research user feedback.**
