@@ -15,16 +15,16 @@
                 <a href="#" id="menu-acces" class="menu_a">Menu</a>
                 <ul class="menu_open navbar_ul">
                   <li class="menu_li">
-                    <a class="menu_a" href="#section_1">Home</a>
+                    <a class="menu_a" href="#Home">Home</a>
                   </li>
                   <li class="menu_li">
-                    <a class="menu_a" href="#section_2">Works</a>
+                    <a class="menu_a" href="#Work">Works</a>
                   </li>
                   <li class="menu_li">
-                    <a class="menu_a" href="#">About</a>
+                    <a class="menu_a" href="#About">About</a>
                   </li>
                   <li class="menu_li">
-                    <a class="menu_a" href="#">Contact</a>
+                    <a class="menu_a" href="#Contact">Contact</a>
                   </li>
                 </ul>
               </nav>
@@ -36,6 +36,7 @@
             <section id="Home"></section>
             <section id="Work"></section>
             <section id="About"></section>
+            <section id="Contact"></section>
         </main>
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
@@ -52,6 +53,9 @@
             });
             $.get("about.md").then((sData) => {
                 $("#About").append(marked(sData));
+            });
+            $.get("contact.md").then((sData) => {
+                $("#Contact").append(marked(sData));
             });
         });
         </script>
