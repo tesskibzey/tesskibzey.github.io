@@ -15,9 +15,9 @@
 
 <br>
 
-**The above posters are examples of the work I did for Art Hawks, a First Year Leadership Program on the Laurier Brantford campus.**
+The above posters are examples of the work I did for Art Hawks, a First Year Leadership Program on the Laurier Brantford campus.
 
-**They were created using Adobe Illustrator and Adobe Photoshop.**
+They were created using Adobe Illustrator and Adobe Photoshop.
 
 <br>
 
@@ -25,9 +25,9 @@
 
 <br>
 
-**This poster was created in my high school Communications Technology class.**
+This poster was created in my high school Communications Technology class.
 
-**The project was to create a concert poster for our favourite artist. Fun fact: Harry Styles is still my favourite!**
+The project was to create a concert poster for our favourite artist. Fun fact: Harry Styles is still my favourite!
 
 <br>
 
@@ -48,6 +48,6 @@
 
 <br>
 
-**The pictures above are from the process of creating ShopSafe, my app prototype. They were based on user research user feedback.**
+The pictures above are from the process of creating ShopSafe, my app prototype. They were based on user research user feedback.
 
 <br>
