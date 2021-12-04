@@ -56,6 +56,7 @@
     background: #ffffff;
     border: 10px solid rgb(0, 183, 255);
     text-align: center;
+    text-align: top;
     text-size-adjust: 20pt;
   }
   .footer {
