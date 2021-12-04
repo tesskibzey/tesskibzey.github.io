@@ -39,7 +39,7 @@
 <img src="PERSONA.png" alt="Persona for UX100 project">
 
 <br>
-<img src="UX100 Journey Map Tess Kibzey.jpg" alt="Journey Map for UX100 project">
+<img src="UX100 Journey Map Tess Kibzey.jpg" height= "300" width= "800"  alt="Journey Map for UX100 project">
 
 <br>
 <img src="Screen Shot 2020-11-13 at 1.15.07 PM.png" alt="Medium Fidelity Prototype example">
