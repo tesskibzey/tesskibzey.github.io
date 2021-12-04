@@ -32,3 +32,8 @@
 ## UX Design
 
 <a href="https://youtu.be/XbM-1oLABg4"> <img src="shopsafe ux220.png" height= "300" width= "350" alt= "ShopSafe"> </a>
+
+**UX100 Term Project: ShopSafe, an app created to limit overcrowding and pollution.**
+<br>
+
+<br>
