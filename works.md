@@ -1,6 +1,6 @@
 # Works
 
-### Please see below my work in Graphic Design and UX.
+## Please see below my work in Graphic Design and UX.
 
 ### See also my Portfolio hosted on Squarespace: <a href="https://www.tesskibzey.space/"> Tess Kibzey Portfolio</a>
 
