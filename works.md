@@ -36,7 +36,11 @@
 **UX100 Term Project: ShopSafe, an app created to limit overcrowding and pollution.**
 <br>
 
-<img src="PERSONA.jpg" alt="Persona for UX100 project">
+<img src="PERSONA.png" alt="Persona for UX100 project">
+
 <br>
 <img src="UX100 Journey Map Tess Kibzey.jpg" alt="Journey Map for UX100 project">
+
+<br>
+<img src="Screen Shot 2020-11-13 at 1.15.07 PM.png" alt="Medium Fidelity Prototype example">
 <br>
