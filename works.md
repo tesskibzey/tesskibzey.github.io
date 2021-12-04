@@ -47,3 +47,5 @@
 <br>
 
 **The pictures above are from the process of creating ShopSafe, my app prototype. They were based on user research user feedback.**
+
+<br>
