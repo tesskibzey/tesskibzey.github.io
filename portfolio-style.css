@@ -47,7 +47,8 @@
   }
   h1{
       padding-top: 100px;
-      z-index: 1
+      z-index: 1;
+      font-family: 'Lato', sans-serif;
   }
   .form-box {
     max-width: 300px;
@@ -59,6 +60,7 @@
     text-align: center;
     text-align: top;
     text-size-adjust: 20pt;
+    font-family: 'Lato', sans-serif;
   }
   input[type=text], select, textarea {
     width: 100%;
@@ -87,6 +89,9 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
+  }
+  body{
+    font-family: 'Lato', sans-serif;
   }
   .footer {
     position: fixed;
