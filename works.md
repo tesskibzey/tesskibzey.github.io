@@ -56,4 +56,5 @@ When it comes to prototyping, it's important to ensure that you are doing all th
 
 **References:**
 S. Nam, G. Ko, K. Suh and J. Kwon, "User Experience- and Design-Oriented Virtual Product Prototyping System," 2019 11th International Conference on Knowledge and Smart Technology (KST), 2019, pp. 116-120, doi: 10.1109/KST.2019.8687418.
+
 <br>
