@@ -2,7 +2,7 @@
 
 ## Please see below my work in Graphic Design and UX.
 
-### See also my Portfolio hosted on Squarespace: <a href="https://www.tesskibzey.space/"> Tess Kibzey Portfolio</a>
+### See also my Portfolio hosted on Squarespace: <a href="https://www.tesskibzey.space/"> target="_blank"> Tess Kibzey Portfolio</a>
 
 <br>
 
